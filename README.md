@@ -48,12 +48,6 @@ If You Have A Custom model data resource pack of java or items addeer resource p
 [Note] The Custom Gui I cannot Convert It It's Kind Of Hard! I don't convert custom gui!
 
 
-## Support Me Donate And Be Patreon!
-Patreon Benifits 
-patreon role on discord
-+2 Any Custom Ranks That i will add in RGRANKS
-https://patreon.com/RealGamerzYT?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
-
 ## SUPPORT NEEDED?
 Join My Discord If U Have Any Problem With The Pack. I Can Help You!
 https://discord.gg/VrpQXTnXMM
