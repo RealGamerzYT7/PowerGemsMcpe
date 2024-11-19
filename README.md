@@ -1,4 +1,6 @@
 # Power Gems Mcpe Pack!
+https://github.com/user-attachments/assets/30014030-d107-482d-ad8b-9238aa19ed3f
+
 Power Gems Is A Plugin Which Adds Custom Gems With Some Special Abilities!
 Like Stregth Gem Which Grants U Saturation And Strength And Resistance When You
 Roght Click While Holding This Gem! This Is level 2 Gem If U shift Click An Arena That Kepps Anyone From Entering, prat ically to Heal You! left Click a Shockwave Will send Everyone flying up and Taking them down to the ground. hitting them Hard giving a huge amount Of Damage! Etc Like This abilities There Are For Specific Gems You Can See Their Abilities Here On Wiki Page Of Power Gems!
