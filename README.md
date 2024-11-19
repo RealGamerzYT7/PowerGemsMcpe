@@ -1,5 +1,6 @@
 # Power Gems Mcpe Pack!
-https://github.com/user-attachments/assets/30014030-d107-482d-ad8b-9238aa19ed3f
+![IMG_20241119_081631](https://github.com/user-attachments/assets/8fff87c0-d893-41a2-9bc5-da1e8096449f)
+
 
 Power Gems Is A Plugin Which Adds Custom Gems With Some Special Abilities!
 Like Stregth Gem Which Grants U Saturation And Strength And Resistance When You
