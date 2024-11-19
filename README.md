@@ -24,7 +24,7 @@ and click on releases!
 if you Are In desktop mode or in pc u can just go to top and see right side the releases and download it!
 
 ## Also Checkout My RGRANKS Pack!
-
+https://github.com/RealGamerzYT7/RG-RANKS
 ## If You Want To Convert Your Items Adder Resource Pack or Any Custom Model data resource pack
 contact me through Discord I Will Convert it ( Paid )
 https://discord.gg/VrpQXTnXMM
@@ -44,7 +44,8 @@ https://youtube.com/@realgamerzyt
 ## Paid Services!
 If You Want Your Custom Ranks I can make it but it's (paid)
 If You Have A Custom model data resource pack of java or items addeer resource pack i can convert it to mcpe!
-[Note] The Custom Gui I cannot Convert It It's Kind Of Hard!
+
+[Note] The Custom Gui I cannot Convert It It's Kind Of Hard! I don't convert custom gui!
 
 
 ## Support Me Donate And Be Patreon!
