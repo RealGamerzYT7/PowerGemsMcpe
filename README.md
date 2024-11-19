@@ -51,4 +51,5 @@ If You Have A Custom model data resource pack of java or items addeer resource p
 ## SUPPORT NEEDED?
 Join My Discord If U Have Any Problem With The Pack. I Can Help You!
 https://discord.gg/VrpQXTnXMM
-![20240812_233727](https://github.com/user-attachments/assets/f1b09aa1-b47a-4c6d-b540-f7c3b5eea143)
+![20241119_080428](https://github.com/user-attachments/assets/30014030-d107-482d-ad8b-9238aa19ed3f)
+
