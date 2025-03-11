@@ -13,13 +13,13 @@ All The Credits Of Making This Java resources pack and the plugin Goes To Their 
 I Converted It's Java Resources Pack To Mcpe So Mcpe Players Can See The Gems Textures!
 
 ## Plugin 
-https://www.spigotmc.org/resources/1-19-4-1-21-x-powergems.108943/
+https://modrinth.com/plugin/powergems
 
 ## Java Resources Pack
 https://github.com/ISeal-plugin-developement/Powergems-ResoucePack
 
 ## Power Gems Discord
-https://discord.gg/VrpQXTnXMM
+https://discord.iseal.dev/
 
 ## Mcpe Resource Pack 
 You Can download Mcpe Resource Pack In My Releases If u Are in Mobile Scroll down
